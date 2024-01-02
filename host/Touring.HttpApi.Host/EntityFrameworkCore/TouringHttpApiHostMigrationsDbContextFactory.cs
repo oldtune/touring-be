@@ -12,7 +12,7 @@ public class TouringHttpApiHostMigrationsDbContextFactory : IDesignTimeDbContext
         var configuration = BuildConfiguration();
 
         var builder = new DbContextOptionsBuilder<TouringHttpApiHostMigrationsDbContext>()
-            .UseSqlServer(configuration.GetConnectionString("Touring"));
+            .UseNpgsql(configuration.GetConnectionString("Touring"));
 
         return new TouringHttpApiHostMigrationsDbContext(builder.Options);
     }
