@@ -1,0 +1,16 @@
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/bin/Debug/net8.0/Touring.Domain.deps.json
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/bin/Debug/net8.0/Touring.Domain.dll
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/bin/Debug/net8.0/Touring.Domain.pdb
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/bin/Debug/net8.0/Touring.Domain.Shared.dll
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/bin/Debug/net8.0/Touring.Domain.Shared.pdb
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.csproj.AssemblyReference.cache
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.AssemblyInfoInputs.cache
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.AssemblyInfo.cs
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.csproj.CoreCompileInputs.cache
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.sourcelink.json
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.csproj.CopyComplete
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.dll
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/refint/Touring.Domain.dll
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/Touring.Domain.pdb
+/home/fedora/Desktop/codebase/touring-be/aspnet-core/src/Touring.Domain/obj/Debug/net8.0/ref/Touring.Domain.dll

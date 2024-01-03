@@ -11,6 +11,9 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\Touring.Application\Touring.Application.csproj" />
     <ProjectReference Include="..\Touring.Domain.Tests\Touring.Domain.Tests.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
   </ItemGroup>
 

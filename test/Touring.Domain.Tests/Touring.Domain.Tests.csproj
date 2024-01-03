@@ -17,5 +17,4 @@
     <ProjectReference Include="..\Touring.TestBase\Touring.TestBase.csproj" />
   </ItemGroup>
 
-
 </Project>

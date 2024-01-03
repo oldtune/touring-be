@@ -6,8 +6,7 @@ public class TouringSettingDefinitionProvider : SettingDefinitionProvider
 {
     public override void Define(ISettingDefinitionContext context)
     {
-        /* Define module settings here.
-         * Use names from TouringSettings class.
-         */
+        //Define your own settings here. Example:
+        //context.Add(new SettingDefinition(TouringSettings.MySetting1));
     }
 }

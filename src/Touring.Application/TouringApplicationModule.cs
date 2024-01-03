@@ -1,24 +1,31 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Volo.Abp.Account;
 using Volo.Abp.AutoMapper;
+using Volo.Abp.FeatureManagement;
+using Volo.Abp.Identity;
 using Volo.Abp.Modularity;
-using Volo.Abp.Application;
+using Volo.Abp.PermissionManagement;
+using Volo.Abp.SettingManagement;
+using Volo.Abp.TenantManagement;
 
 namespace Touring;
 
 [DependsOn(
     typeof(TouringDomainModule),
+    typeof(AbpAccountApplicationModule),
     typeof(TouringApplicationContractsModule),
-    typeof(AbpDddApplicationModule),
-    typeof(AbpAutoMapperModule)
+    typeof(AbpIdentityApplicationModule),
+    typeof(AbpPermissionManagementApplicationModule),
+    typeof(AbpTenantManagementApplicationModule),
+    typeof(AbpFeatureManagementApplicationModule),
+    typeof(AbpSettingManagementApplicationModule)
     )]
 public class TouringApplicationModule : AbpModule
 {
     public override void ConfigureServices(ServiceConfigurationContext context)
     {
-        context.Services.AddAutoMapperObjectMapper<TouringApplicationModule>();
         Configure<AbpAutoMapperOptions>(options =>
         {
-            options.AddMaps<TouringApplicationModule>(validate: true);
+            options.AddMaps<TouringApplicationModule>();
         });
     }
 }

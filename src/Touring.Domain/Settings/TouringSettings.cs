@@ -2,9 +2,8 @@
 
 public static class TouringSettings
 {
-    public const string GroupName = "Touring";
+    private const string Prefix = "Touring";
 
-    /* Add constants for setting names. Example:
-     * public const string MySettingName = GroupName + ".MySettingName";
-     */
+    //Add your own setting names here. Example:
+    //public const string MySetting1 = Prefix + ".MySetting1";
 }

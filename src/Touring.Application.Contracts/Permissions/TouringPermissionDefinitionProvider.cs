@@ -8,7 +8,9 @@ public class TouringPermissionDefinitionProvider : PermissionDefinitionProvider
 {
     public override void Define(IPermissionDefinitionContext context)
     {
-        var myGroup = context.AddGroup(TouringPermissions.GroupName, L("Permission:Touring"));
+        var myGroup = context.AddGroup(TouringPermissions.GroupName);
+        //Define your own permissions here. Example:
+        //myGroup.AddPermission(TouringPermissions.MyPermission1, L("Permission:MyPermission1"));
     }
 
     private static LocalizableString L(string name)

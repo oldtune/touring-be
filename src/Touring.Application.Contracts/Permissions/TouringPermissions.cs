@@ -1,13 +1,9 @@
-﻿using Volo.Abp.Reflection;
+﻿namespace Touring.Permissions;
 
-namespace Touring.Permissions;
-
-public class TouringPermissions
+public static class TouringPermissions
 {
     public const string GroupName = "Touring";
 
-    public static string[] GetAll()
-    {
-        return ReflectionHelper.GetPublicConstantsRecursively(typeof(TouringPermissions));
-    }
+    //Add your own permission names. Example:
+    //public const string MyPermission1 = GroupName + ".MyPermission1";
 }

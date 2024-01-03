@@ -1,7 +1,8 @@
 {
   "culture": "pt-BR",
   "texts": {
-    "MyAccount": "Minha conta",
-    "SamplePageMessage": "Uma página de amostra para o módulo Touring"
+    "Menu:Home": "Principal",
+    "Welcome": "Seja bem-vindo!",
+    "LongWelcomeMessage": "Bem-vindo a esta aplicação. Este é um projeto inicial baseado no ABP framework. Para mais informações, visite abp.io."
   }
 }
