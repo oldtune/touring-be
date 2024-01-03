@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Touring
+build_property.ProjectDir = /home/fedora/Desktop/codebase/touring-be/src/Touring.HttpApi.Client/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
