@@ -1,2 +1,2 @@
 #!/bin/zsh
-dotnet ef migration add $1 --startup-project ./host/Touring.HttpApi.Hosting --project ./src/Touring.EntityFrameworkCore --context TouringDbContext
+dotnet ef migrations add $1 --startup-project ./src/Touring.EntityFrameworkCore --project ./src/Touring.EntityFrameworkCore --context TouringDbContext

@@ -17,7 +17,7 @@ public class TouringDbContextFactory : IDesignTimeDbContextFactory<TouringDbCont
         var configuration = BuildConfiguration();
 
         var builder = new DbContextOptionsBuilder<TouringDbContext>()
-            .UseSqlServer(configuration.GetConnectionString("Default"));
+            .UseNpgsql(configuration.GetConnectionString("Default"));
 
         return new TouringDbContext(builder.Options);
     }

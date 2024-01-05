@@ -1,0 +1,12 @@
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/bin/Debug/netstandard2.1/Touring.Domain.Shared.deps.json
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/bin/Debug/netstandard2.1/Touring.Domain.Shared.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/bin/Debug/netstandard2.1/Touring.Domain.Shared.pdb
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.csproj.AssemblyReference.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.EmbeddedFilesManifest.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.AssemblyInfoInputs.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.AssemblyInfo.cs
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.csproj.CoreCompileInputs.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.sourcelink.json
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Domain.Shared/obj/Debug/netstandard2.1/Touring.Domain.Shared.pdb

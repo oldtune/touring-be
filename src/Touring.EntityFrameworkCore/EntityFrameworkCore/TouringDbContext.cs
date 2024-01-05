@@ -1,9 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Touring.Domain;
 using Volo.Abp.AuditLogging.EntityFrameworkCore;
 using Volo.Abp.BackgroundJobs.EntityFrameworkCore;
 using Volo.Abp.Data;
 using Volo.Abp.DependencyInjection;
 using Volo.Abp.EntityFrameworkCore;
+using Volo.Abp.EntityFrameworkCore.Modeling;
 using Volo.Abp.FeatureManagement.EntityFrameworkCore;
 using Volo.Abp.Identity;
 using Volo.Abp.Identity.EntityFrameworkCore;
@@ -46,6 +48,8 @@ public class TouringDbContext :
     public DbSet<IdentitySecurityLog> SecurityLogs { get; set; }
     public DbSet<IdentityLinkUser> LinkUsers { get; set; }
     public DbSet<IdentityUserDelegation> UserDelegations { get; set; }
+    public DbSet<Tour> Tours { set; get; }
+    public DbSet<Location> Locations { set; get; }
 
     // Tenant Management
     public DbSet<Tenant> Tenants { get; set; }
@@ -73,6 +77,14 @@ public class TouringDbContext :
         builder.ConfigureOpenIddict();
         builder.ConfigureFeatureManagement();
         builder.ConfigureTenantManagement();
+        builder.Entity<Location>(b =>
+        {
+            b.ConfigureByConvention();
+        });
+        builder.Entity<Tour>(b =>
+        {
+            b.ConfigureByConvention();
+        });
 
         /* Configure your own tables/entities inside here */
 

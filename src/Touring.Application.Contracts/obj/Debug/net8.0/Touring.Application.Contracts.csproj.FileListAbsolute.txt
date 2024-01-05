@@ -1,0 +1,16 @@
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/net8.0/Touring.Application.Contracts.deps.json
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/net8.0/Touring.Application.Contracts.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/net8.0/Touring.Application.Contracts.pdb
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/net8.0/Touring.Domain.Shared.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/net8.0/Touring.Domain.Shared.pdb
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.csproj.AssemblyReference.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.AssemblyInfoInputs.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.AssemblyInfo.cs
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.csproj.CoreCompileInputs.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.sourcelink.json
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.csproj.CopyComplete
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/refint/Touring.Application.Contracts.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/Touring.Application.Contracts.pdb
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/net8.0/ref/Touring.Application.Contracts.dll

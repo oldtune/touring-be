@@ -1,0 +1,14 @@
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/netstandard2.0/Touring.Application.Contracts.deps.json
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/netstandard2.0/Touring.Application.Contracts.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/netstandard2.0/Touring.Application.Contracts.pdb
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/netstandard2.0/Touring.Domain.Shared.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/bin/Debug/netstandard2.0/Touring.Domain.Shared.pdb
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.csproj.AssemblyReference.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.AssemblyInfoInputs.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.AssemblyInfo.cs
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.csproj.CoreCompileInputs.cache
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.sourcelink.json
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.csproj.CopyComplete
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.dll
+/home/fedora/Desktop/codebase/touring-be/src/Touring.Application.Contracts/obj/Debug/netstandard2.0/Touring.Application.Contracts.pdb

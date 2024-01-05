@@ -1,2 +1,2 @@
 #!/bin/zsh
-dotnet run --project ./host/Touring.HttpApi.Host
+dotnet run --project ./src/Touring.HttpApi.Host

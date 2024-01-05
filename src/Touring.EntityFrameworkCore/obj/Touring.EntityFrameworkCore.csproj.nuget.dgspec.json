@@ -377,7 +377,7 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
-            "Volo.Abp.EntityFrameworkCore.SqlServer": {
+            "Volo.Abp.EntityFrameworkCore.PostgreSql": {
               "target": "Package",
               "version": "[8.0.1, )"
             },
